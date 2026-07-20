@@ -47,3 +47,17 @@ Project Phoenix officially started.
 - Learned `git add`.
 - Made my first Git commit.
 - Learned how Git records project history.
+
+## Day 7
+- Learned how to view commit history with `git log`.
+- Learned to use `git log --oneline` for a compact history.
+- Understood commit hashes and why every commit has a unique ID.
+- Learned what `HEAD` represents.
+- Created my second Git commit by updating the progress log.
+
+## Day 8
+- Learned how `git diff` compares changes.
+- Understood the difference between the Working Directory, Staging Area, and Repository.
+- Learned `git diff --staged`.
+- Learned that `git add` captures a snapshot of a file at that moment.
+- Practiced reading Git diff output.

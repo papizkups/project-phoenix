@@ -20,3 +20,4 @@ July 1, 2026
 
 Project Phoenix Motto:
 Small steps. Massive future.
+Never stop learning...
