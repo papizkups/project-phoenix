@@ -61,3 +61,9 @@ Project Phoenix officially started.
 - Learned `git diff --staged`.
 - Learned that `git add` captures a snapshot of a file at that moment.
 - Practiced reading Git diff output.
+
+## Day 9
+- Learned how to use `git restore`.
+- Safely discarded unwanted changes.
+- Understood that `git restore` restores files to the last committed version.
+- Learned that restoring the Working Directory does not automatically change the Staging Area.
