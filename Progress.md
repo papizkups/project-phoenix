@@ -67,3 +67,11 @@ Project Phoenix officially started.
 - Safely discarded unwanted changes.
 - Understood that `git restore` restores files to the last committed version.
 - Learned that restoring the Working Directory does not automatically change the Staging Area.
+
+## Day 10
+- Learned how to inspect commits with `git show`.
+- Learned that every commit has a unique commit hash.
+- Compared commits using `git diff <commit1> <commit2>`.
+- Created a personal Git Cheat Sheet.
+- Understood that a file can appear in both "Changes to be committed" and "Changes not staged for commit" if it's edited after being staged.
+- Learned that Git may open the `less` viewer and that pressing `q` returns to Git Bash.
