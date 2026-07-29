@@ -75,3 +75,10 @@ Project Phoenix officially started.
 - Created a personal Git Cheat Sheet.
 - Understood that a file can appear in both "Changes to be committed" and "Changes not staged for commit" if it's edited after being staged.
 - Learned that Git may open the `less` viewer and that pressing `q` returns to Git Bash.
+
+## Day 11
+- Learned how to unstage files with `git restore --staged`.
+- Practiced moving files between the Working Directory and the Staging Area.
+- Understood that `git restore` restores the Working Directory.
+- Understood that `git restore --staged` restores the Staging Area.
+- Strengthened my understanding of Git's three areas: Working Directory, Staging Area, and Repository.
