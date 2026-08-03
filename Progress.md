@@ -82,3 +82,9 @@ Project Phoenix officially started.
 - Understood that `git restore` restores the Working Directory.
 - Understood that `git restore --staged` restores the Staging Area.
 - Strengthened my understanding of Git's three areas: Working Directory, Staging Area, and Repository.
+
+## Day 13
+- Learned that `git show <commit>:<file>` displays an old version of a file without changing it.
+- Distinguished between Git commands that inspect history and those that modify it.
+- Learned that `git diff <commit1> <commit2>` compares entire project snapshots.
+- Strengthened my understanding of Git as a snapshot-based version control system.
