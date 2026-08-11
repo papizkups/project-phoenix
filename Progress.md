@@ -88,3 +88,12 @@ Project Phoenix officially started.
 - Distinguished between Git commands that inspect history and those that modify it.
 - Learned that `git diff <commit1> <commit2>` compares entire project snapshots.
 - Strengthened my understanding of Git as a snapshot-based version control system.
+
+## Day 14
+- Learned what Git branches are and why they are useful.
+- Created and switched to my first branch using `git switch -c`.
+- Learned that branches are pointers to commits.
+- Learned that uncommitted changes belong to the Working Directory, not a branch.
+- Practiced switching between `main` and `experiment`.
+- Learned how to merge a branch into another branch.
+- Learned the difference between fast-forward and non-fast-forward merges.
