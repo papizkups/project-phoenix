@@ -97,3 +97,10 @@ Project Phoenix officially started.
 - Practiced switching between `main` and `experiment`.
 - Learned how to merge a branch into another branch.
 - Learned the difference between fast-forward and non-fast-forward merges.
+
+## Day 15
+- Learned how to safely delete a merged branch using `git branch -d`.
+- Learned that deleting a branch removes the branch pointer, not the commits it points to when those commits remain reachable.
+- Practiced creating branches with `git switch -c`.
+- Learned the difference between `git branch`, `git switch`, and `git switch -c`.
+- Learned why temporary feature branches are commonly deleted after merging.
