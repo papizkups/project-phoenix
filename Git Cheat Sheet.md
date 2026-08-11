@@ -82,3 +82,5 @@ Useful keys:
 ## Things That Tricked Me
 - `git log`, `git show`, and long `git diff` outputs may open the `less` viewer.
 - Press `q` to return to Git Bash.
+
+Branches let me experiment without disturbing main.
