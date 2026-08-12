@@ -104,3 +104,15 @@ Project Phoenix officially started.
 - Practiced creating branches with `git switch -c`.
 - Learned the difference between `git branch`, `git switch`, and `git switch -c`.
 - Learned why temporary feature branches are commonly deleted after merging.
+
+## Day 16
+- Connected the local Project Phoenix repository to GitHub.
+- Learned what a Git remote is and why `origin` is the conventional remote name.
+- Learned `git remote` and `git remote -v`.
+- Learned the difference between fetch and push.
+- Successfully pushed Project Phoenix to GitHub using `git push -u origin main`.
+- Learned about upstream/tracking branches.
+- Learned the difference between `git fetch` and `git pull`.
+- Practiced fetching a remote commit without changing the local working tree.
+- Used `git pull` to integrate a remote change into the local branch.
+- Learned why diverged local and remote histories may require merging, rebasing, or conflict resolution.
