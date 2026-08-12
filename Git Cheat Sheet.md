@@ -89,3 +89,5 @@ git switch -c <branch> → create a branch and switch to it.
 git switch <branch> → switch to an existing branch.
 git branch → list branches.
 git branch -d <branch> → safely delete a merged branch.
+
+git fetch → downloads information from a remote without automatically integrating it into your current branch.
