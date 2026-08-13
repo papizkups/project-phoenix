@@ -90,4 +90,4 @@ git switch <branch> → switch to an existing branch.
 git branch → list branches.
 git branch -d <branch> → safely delete a merged branch.
 
-git fetch → downloads information from a remote without automatically integrating it into your current branch.
+git fetch → checks the remote for new commits without changing your working files.
