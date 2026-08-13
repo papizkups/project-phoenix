@@ -116,3 +116,15 @@ Project Phoenix officially started.
 - Practiced fetching a remote commit without changing the local working tree.
 - Used `git pull` to integrate a remote change into the local branch.
 - Learned why diverged local and remote histories may require merging, rebasing, or conflict resolution.
+
+## Day 17
+- Learned what merge conflicts are and why they occur.
+- Created a deliberate merge conflict between main and a feature branch.
+- Used `git status` to identify an unmerged/conflicted file.
+- Examined Git conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+- Resolved the conflict by choosing the appropriate version.
+- Used `git add` to mark the conflict as resolved.
+- Completed the merge with a merge commit.
+- Learned that merge commits preserve both lines of development.
+- Deleted the completed feature branch with `git branch -d`.
+- Pushed the merged history to GitHub.
