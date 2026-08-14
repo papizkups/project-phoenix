@@ -91,3 +91,5 @@ git branch → list branches.
 git branch -d <branch> → safely delete a merged branch.
 
 git fetch → checks the remote for new commits without changing your working files.
+
+Feature branches allow you to work on a specific task without directly changing main.
