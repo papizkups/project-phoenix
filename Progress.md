@@ -128,3 +128,13 @@ Project Phoenix officially started.
 - Learned that merge commits preserve both lines of development.
 - Deleted the completed feature branch with `git branch -d`.
 - Pushed the merged history to GitHub.
+
+## Day 18
+- Learned the difference between `git branch`, `git switch`, and `git switch -c`.
+- Learned that branches are pointers to commits rather than separate copies of the project.
+- Practiced creating and switching between feature branches.
+- Learned why uncommitted changes remain in the working directory when switching branches.
+- Practiced committing work to a feature branch.
+- Merged `feature/cloud-lab` into `main` using a fast-forward merge.
+- Deleted the completed feature branch.
+- Pushed the updated `main` branch to GitHub.
