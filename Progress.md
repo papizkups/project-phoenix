@@ -138,3 +138,23 @@ Project Phoenix officially started.
 - Merged `feature/cloud-lab` into `main` using a fast-forward merge.
 - Deleted the completed feature branch.
 - Pushed the updated `main` branch to GitHub.
+
+## Day 19
+- Learned what Pull Requests (PRs) are and how they are used to propose changes from a feature branch into `main`.
+- Created `feature/day19` and practiced the feature branch → commit → push workflow.
+- Pushed a new local branch to GitHub using `git push -u origin feature/day19`.
+- Created my first Pull Request on GitHub for Project Phoenix.
+- Reviewed the PR diff and confirmed there were no merge conflicts.
+- Successfully merged Pull Request #1 into `main` on GitHub.
+- Learned the difference between `git fetch`, `git pull`, and Pull Requests.
+- Learned that `git fetch` downloads remote changes without modifying the current branch or working files.
+- Learned how to inspect fetched changes before pulling using:
+  - `git log main..origin/main --oneline`
+  - `git diff main origin/main`
+- Used `git pull` to fast-forward local `main` after the PR was merged on GitHub.
+- Learned the difference between local branches, remote branches, and remote-tracking branches.
+- Deleted the merged local feature branch using `git branch -d feature/day19`.
+- Deleted the merged remote branch using `git push origin --delete feature/day19`.
+- Learned how `git branch -a` displays local and remote-tracking branches.
+- Learned that the `-a` option means "all" for `git branch`.
+- Learned Tab completion in Git Bash for commands, branches, paths, and filenames.
