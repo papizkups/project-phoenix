@@ -158,3 +158,11 @@ Project Phoenix officially started.
 - Learned how `git branch -a` displays local and remote-tracking branches.
 - Learned that the `-a` option means "all" for `git branch`.
 - Learned Tab completion in Git Bash for commands, branches, paths, and filenames.
+
+## Day 20
+- Learned the four main locations in the Git workflow: Working Directory, Staging Area, Local Repository, and Remote Repository.
+- Practiced moving a change from the Working Directory to the Staging Area using `git add`.
+- Practiced committing a staged change to the Local Repository using `git commit`.
+- Practiced pushing a local commit to GitHub using `git push`.
+- Observed how Git reports the difference between local commits and commits available on `origin/main`.
+- Reinforced the Git workflow: edit → stage → commit → push.
