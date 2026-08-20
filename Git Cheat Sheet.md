@@ -94,3 +94,5 @@ git fetch → checks the remote for new commits without changing your working fi
 
 Feature branches allow you to work on a specific task without directly changing main.
 Pull Requests allow changes from a feature branch to be reviewed before being merged into main.
+
+Day 20: Exploring Git's four main locations.
