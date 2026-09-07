@@ -166,3 +166,24 @@ Project Phoenix officially started.
 - Practiced pushing a local commit to GitHub using `git push`.
 - Observed how Git reports the difference between local commits and commits available on `origin/main`.
 - Reinforced the Git workflow: edit → stage → commit → push.
+
+## Day 21 – Linux Fundamentals: Files, Directories & Permissions
+
+- Practiced moving files between directories using `mv`.
+- Learned that `mv` can either move or rename an item depending on the destination.
+- Learned `rm` for deleting files.
+- Learned `rmdir` for removing empty directories.
+- Practiced why `rmdir` fails when a directory is not empty.
+- Learned `rm -r` for recursively removing a directory and its contents.
+- Learned about hidden files and directories whose names begin with `.`.
+- Practiced `ls -a` to display hidden files.
+- Practiced `ls -l` and `ls -la` for detailed directory listings.
+- Reinforced that `.` represents the current directory and `..` represents the parent directory.
+- Learned Linux file and directory permissions: read (`r`), write (`w`), and execute (`x`).
+- Learned the three permission categories: owner, group, and others.
+- Learned the difference between file permissions and directory permissions.
+- Practiced changing permissions with symbolic `chmod`, including `u+x` and `u-x`.
+- Learned numerical permissions using `r=4`, `w=2`, and `x=1`.
+- Practiced converting permission strings such as `rw-rw-r--` to `664`, `rwxr-xr-x` to `755`, and `rw-r-----` to `640`.
+- Learned the difference between symbolic `chmod` (making specific permission changes) and numerical `chmod` (setting the complete permission configuration).
+- Reinforced safe command-line habits by using disposable practice files and directories before deleting or changing permissions.
