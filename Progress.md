@@ -187,3 +187,19 @@ Project Phoenix officially started.
 - Practiced converting permission strings such as `rw-rw-r--` to `664`, `rwxr-xr-x` to `755`, and `rw-r-----` to `640`.
 - Learned the difference between symbolic `chmod` (making specific permission changes) and numerical `chmod` (setting the complete permission configuration).
 - Reinforced safe command-line habits by using disposable practice files and directories before deleting or changing permissions.
+
+## Day 22 – Linux Processes & System Resources
+
+- Learned what a Linux process is and how processes are identified by Process IDs (PIDs).
+- Learned the difference between PID and PPID (Parent Process ID).
+- Used `ps` to view a snapshot of running processes.
+- Used `top` to monitor processes and CPU usage in real time.
+- Learned basic CPU usage indicators, including `us`, `sy`, `ni`, and `id`.
+- Learned basic Linux memory concepts: used RAM, free RAM, buff/cache, available memory, and swap.
+- Practiced creating a temporary `sleep` process and finding it using `ps -ef | grep`.
+- Learned that `grep` searches or filters text.
+- Practiced terminating a process using `kill` and its PID.
+- Learned that `kill -9` sends the SIGKILL signal for forceful process termination.
+- Learned that PID 1 is a special system process managed by the Linux init system (`systemd` on Ubuntu).
+- Learned the purpose of `sudo` for running commands with administrative privileges.
+- Reinforced safe process-management habits by practicing with a disposable process rather than a system process.
