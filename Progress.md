@@ -203,3 +203,18 @@ Project Phoenix officially started.
 - Learned that PID 1 is a special system process managed by the Linux init system (`systemd` on Ubuntu).
 - Learned the purpose of `sudo` for running commands with administrative privileges.
 - Reinforced safe process-management habits by practicing with a disposable process rather than a system process.
+
+## Day 23 – Linux Fundamentals: Finding Files & Directories
+
+- Learned the purpose of the `find` command for searching the Linux filesystem.
+- Learned that `~` represents the current user's home directory.
+- Reinforced that `/` represents the root of the Linux filesystem.
+- Practiced finding files by exact name using `find` and `-name`.
+- Learned that `find` searches through subdirectories by default.
+- Learned how wildcards (`*`) can be used when matching filenames.
+- Practiced finding files ending in `.md` and `.txt`.
+- Learned how `-type d` restricts a `find` search to directories.
+- Practiced combining `-type d` and `-name` to locate specific directories.
+- Learned that `find` can search hidden directories such as Git's `.git` directory.
+- Practiced using wildcards to find names containing a specific word.
+- Reinforced the difference between searching from the home directory (`~`) and the filesystem root (`/`).
