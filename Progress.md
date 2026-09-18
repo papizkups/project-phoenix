@@ -218,3 +218,19 @@ Project Phoenix officially started.
 - Learned that `find` can search hidden directories such as Git's `.git` directory.
 - Practiced using wildcards to find names containing a specific word.
 - Reinforced the difference between searching from the home directory (`~`) and the filesystem root (`/`).
+
+## Day 24 – Linux Fundamentals: Inspecting Files & Commands
+
+- Learned the purpose of the `file` command for identifying what a file or directory is.
+- Practiced using `file` on text files, directories, and Git's `.git` directory.
+- Learned the purpose of the `which` command for locating the executable associated with a command.
+- Practiced locating executables such as `ls`, `find`, and `bash`.
+- Reinforced the Linux filesystem structure using paths such as `/usr/bin/...`.
+- Reviewed `ls -l` for detailed file information.
+- Reinforced Linux permissions using the `/usr/bin/bash` executable as a real example.
+- Learned that `root root` in a long listing represents the file owner and group.
+- Learned the difference between `ls -l` and `ls -ld`.
+- Learned the purpose of the `type` command for seeing how Bash resolves a command.
+- Learned that commands can be aliases, shell builtins, or external executables.
+- Practiced identifying `ls` as an alias and `pwd` as a Bash shell builtin.
+- Reinforced connections between Linux commands, executables, permissions, ownership, and the shell.
